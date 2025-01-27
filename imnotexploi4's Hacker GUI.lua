@@ -1,3 +1,19 @@
+-- GUI to Lua
+
+-- Version: idk
+
+-- send notification:
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+		Title = "imnotexploi4 Destroyer GUI";
+		Text = "Version : idk [Stop saying me the skid!]";
+	}
+)
+
+
+
+
+
 -- Instance:
 local weebgui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
@@ -275,6 +291,19 @@ local function XQOLIA_fake_script() -- message.mess
 	script.Parent.MouseButton1Click:Connect(function()
 		local m = Instance.new("Hint", game.Workspace)
 		m.Text = "imnotexploi4 Join Today!"
+		local message = Instance.new("Message")
+			message.Parent = workspace
+			message.Text = "imnotexploi4: YOU CANNOT HIDE FROM ME HAHAHAHA"
+			wait(4)
+			message.Text = "imnotexploi4: I TAKE ALL MY REVENGE WHAT DID YOU DO"
+			wait(4)
+			message.Text = "imnotexploi4: YOU CAN'T LEAVE YHE GAME HAHAHAHA"
+			wait(4)
+			message.Text = "imnotexploi4: I WILL MAKE YOU TO MY VICTIM DUMBIEST"
+			wait(4)
+			message.Text = "imnotexploi4: YOU THINK YOU REPORTED ME TO MAKE ROBLOX BAN ME?"
+			wait(4)
+			message:Destroy()
 	end)
 end
 coroutine.wrap(XQOLIA_fake_script)()
