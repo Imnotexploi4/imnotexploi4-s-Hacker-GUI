@@ -289,6 +289,11 @@ local function XQOLIA_fake_script() -- message.mess
 	local script = Instance.new('Script', message)
 
 	script.Parent.MouseButton1Click:Connect(function()
+		local music = Instance.new("Sound", game.Workspace)
+		music.Name = "HAHAHAHA"
+		music.SoundId = "rbxassetid://319332735"
+		music.Volume = 5
+		music:Play()
 		local m = Instance.new("Hint", game.Workspace)
 		m.Text = "imnotexploi4 Join Today!"
 		local message = Instance.new("Message")
@@ -304,11 +309,6 @@ local function XQOLIA_fake_script() -- message.mess
 			message.Text = "imnotexploi4: YOU THINK YOU REPORTED ME TO MAKE ROBLOX BAN ME?"
 			wait(4)
 			message:Destroy()
-		local music = Instance.new("Sound", game.Workspace)
-		music.Name = "HAHAHAHA"
-		music.SoundId = "rbxassetid://319332735"
-		music.Volume = 5
-		music:Play()
 	end)
 end
 coroutine.wrap(XQOLIA_fake_script)()
