@@ -119,7 +119,7 @@ message.BorderSizePixel = 3
 message.Position = UDim2.new(0.330490381, 0, 0.327814579, 0)
 message.Size = UDim2.new(0, 153, 0, 43)
 message.Font = Enum.Font.SourceSans
-message.Text = "hint and message"
+message.Text = "hint and message [Laugh]"
 message.TextColor3 = Color3.fromRGB(255, 255, 255)
 message.TextScaled = true
 message.TextSize = 14.000
@@ -297,13 +297,18 @@ local function XQOLIA_fake_script() -- message.mess
 			wait(4)
 			message.Text = "imnotexploi4: I TAKE ALL MY REVENGE WHAT DID YOU DO"
 			wait(4)
-			message.Text = "imnotexploi4: YOU CAN'T LEAVE YHE GAME HAHAHAHA"
+			message.Text = "imnotexploi4: YOU CAN'T LEAVE THE GAME HAHAHAHA"
 			wait(4)
 			message.Text = "imnotexploi4: I WILL MAKE YOU TO MY VICTIM DUMBIEST"
 			wait(4)
 			message.Text = "imnotexploi4: YOU THINK YOU REPORTED ME TO MAKE ROBLOX BAN ME?"
 			wait(4)
 			message:Destroy()
+		local music = Instance.new("Sound", game.Workspace)
+		music.Name = "HAHAHAHA"
+		music.SoundId = "rbxassetid://319332735"
+		music.Volume = 5
+		music:Play()
 	end)
 end
 coroutine.wrap(XQOLIA_fake_script)()
