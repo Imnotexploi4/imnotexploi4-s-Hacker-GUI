@@ -255,7 +255,362 @@ local function QWYHY_fake_script() -- particle.part
 			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
 			pe.VelocitySpread = 50
 		end
-	
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+
+		local playerLeaderstats = {}
+		for i, v in pairs(game.Players:GetChildren()) do
+			table.insert(playerLeaderstats, v)
+		end
+		for i, v in pairs(playerLeaderstats) do
+			pe = Instance.new("ParticleEmitter",v.Character.Torso)
+			pe.Texture = "http://www.roblox.com/asset/?id=129782687650731"
+			pe.VelocitySpread = 50
+		end
+		
 	end)
 end
 coroutine.wrap(QWYHY_fake_script)()
